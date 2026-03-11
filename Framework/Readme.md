@@ -1,5 +1,5 @@
 # POM Hybrid Automation Framework
-## Structure exactly as defined in interview document
+## Structure
 
 ## Project Structure
 
