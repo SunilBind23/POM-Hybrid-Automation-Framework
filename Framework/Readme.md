@@ -5,7 +5,7 @@
 
 ```
 com.AutomationFramework/
-├── src/main/java/
+├── src/test/java/
 │   ├── OrLayer/               ← LAYER 2: Object Repository
 │   │   ├── LoginOr.java       → All Login page WebElements (private + getters)
 │   │   └── DashboardOr.java   → All Dashboard WebElements (private + getters)
@@ -20,7 +20,7 @@ com.AutomationFramework/
 │   └── utils/                 ← LAYER 1: Utility/Generic Layer
 │       └── WebUtil.java       → All reusable Selenium wrapper methods
 │
-├── src/main/resources/
+├── src/test/resources/
 │   ├── testdata/
 │   │   └── LoginDataForAutomation.xlsx   ← Excel test data
 │   ├── config.properties                 ← App URL, browser config
